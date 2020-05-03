@@ -7,6 +7,9 @@ https://drive.google.com/drive/u/1/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR?aut
 # Dataset for Focal Loss Experiments
 https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view
 
+# Trained Weights
+https://drive.google.com/open?id=11xqMvR-M-pU3qhFaZmnBU-lvzkGIY7Ss
+
 # VGG-16 (FC Only)
 Validation Accuracy: 88%
 
@@ -80,6 +83,11 @@ Test Accuracy: 93.7%
 F1 Score: 0.941
 
 # VGG-16 (with Focal Loss)
-Best Validation Accuracy: 90.7%
-F1 Scores: [0.25, 0.95, 0.89]
 
+![Training Confusion Matrices](/Results/5.1.png)
+![Validation Confusion Matrices](/Results/5.2.png)
+![Loss and Accuracy Curves](/Results/5.3.png)
+
+Best Validation Accuracy: 90.7%
+
+F1 Scores: [0.25, 0.95, 0.89]
