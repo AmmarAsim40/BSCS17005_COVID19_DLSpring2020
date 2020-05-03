@@ -83,11 +83,10 @@ Test Accuracy: 93.7%
 F1 Score: 0.941
 
 # VGG-16 (with Focal Loss)
+Best Validation Accuracy: 90.7%
+
+F1 Scores: [0.25, 0.95, 0.89]
 
 ![Training Confusion Matrices](/Results/5.1.png)
 ![Validation Confusion Matrices](/Results/5.2.png)
 ![Loss and Accuracy Curves](/Results/5.3.png)
-
-Best Validation Accuracy: 90.7%
-
-F1 Scores: [0.25, 0.95, 0.89]
