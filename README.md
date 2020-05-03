@@ -87,6 +87,6 @@ Best Validation Accuracy: 90.7%
 
 F1 Scores: [0.25, 0.95, 0.89]
 
-![Training Confusion Matrices](/Results/5.1.png)
-![Validation Confusion Matrices](/Results/5.2.png)
-![Loss and Accuracy Curves](/Results/5.3.png)
+![Training Confusion Matrices](/figure/5.1.png)
+![Validation Confusion Matrices](/figure/5.2.png)
+![Loss and Accuracy Curves](/figure/5.3.png)
