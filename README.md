@@ -38,13 +38,17 @@ Test Accuracy: 96.3%
 
 F1 Score: 0.97
 
-This experiment yielded the best results.
+This experiment yielded the best results:
+
+![Confusion Matrices](/figure/1.png)
+![Loss and Accuracy Curves](/figure/2.png)
+![Well Classified and Badly Classified Images](/figure/3.png)
 
 # VGG-16 (with Focal Loss)
 Best Validation Accuracy: 90.7%
 
 F1 Scores: [0.25, 0.95, 0.89]
 
-![Training Confusion Matrices](/figure/5.1.png)
-![Validation Confusion Matrices](/figure/5.2.png)
-![Loss and Accuracy Curves](/figure/5.3.png)
+![Training Confusion Matrices](/figure/4.png)
+![Validation Confusion Matrices](/figure/5.png)
+![Loss and Accuracy Curves](/figure/6.png)
