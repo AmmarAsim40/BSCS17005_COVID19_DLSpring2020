@@ -45,7 +45,7 @@ This experiment yielded the best results:
 ![Well Classified and Badly Classified Images](/figure/3.png)
 
 # VGG-16 (with Focal Loss)
-Best Validation Accuracy: 90.7%
+Validation Accuracy: 90.7%
 
 F1 Scores: [0.25, 0.95, 0.89]
 
